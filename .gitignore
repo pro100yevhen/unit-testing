@@ -1,0 +1,8 @@
+/.idea/
+/settings.gradle
+/unit-testing.iml
+/.gradle/
+/gradle/
+gradlew
+gradlew.bat
+/build/
